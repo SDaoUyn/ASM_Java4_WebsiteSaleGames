@@ -53,7 +53,7 @@ https://templatemo.com/tm-579-cyborg-gaming
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
+                    <a href="index.jsp" class="logo">
                         <img src="assets/images/logo.png" alt="">
                     </a>
                     <!-- ***** Logo End ***** -->
@@ -67,11 +67,11 @@ https://templatemo.com/tm-579-cyborg-gaming
                     <!-- ***** Search End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="browse.html">Browse</a></li>
-                        <li><a href="details.html" class="active">Details</a></li>
-                        <li><a href="streams.html">Streams</a></li>
-                        <li><a href="profile.html">Profile <img src="assets/images/profile-header.jpg" alt=""></a></li>
+                        <li><a href="index.jsp">Home</a></li>
+                        <li><a href="browse.jsp">Browse</a></li>
+                        <li><a href="details.jsp" class="active">Details</a></li>
+                        <li><a href="streams.jsp">Streams</a></li>
+                        <li><a href="profile.jsp">Profile <img src="assets/images/profile-header.jpg" alt=""></a></li>
                     </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>

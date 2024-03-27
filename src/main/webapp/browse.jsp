@@ -53,7 +53,7 @@ https://templatemo.com/tm-579-cyborg-gaming
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
+                    <a href="index.jsp" class="logo">
                         <img src="assets/images/logo.png" alt="">
                     </a>
                     <!-- ***** Logo End ***** -->
@@ -67,11 +67,11 @@ https://templatemo.com/tm-579-cyborg-gaming
                     <!-- ***** Search End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="browse.html" class="active">Browse</a></li>
-                        <li><a href="details.html">Details</a></li>
-                        <li><a href="streams.html">Streams</a></li>
-                        <li><a href="profile.html">Profile <img src="assets/images/profile-header.jpg" alt=""></a></li>
+                        <li><a href="index.jsp">Home</a></li>
+                        <li><a href="browse.jsp" class="active">Browse</a></li>
+                        <li><a href="details.jsp">Details</a></li>
+                        <li><a href="streams.jsp">Streams</a></li>
+                        <li><a href="profile.jsp">Profile <img src="assets/images/profile-header.jpg" alt=""></a></li>
                     </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>
@@ -216,7 +216,7 @@ https://templatemo.com/tm-579-cyborg-gaming
                   </li>
                 </ul>
                 <div class="text-button">
-                  <a href="profile.html">View All Games</a>
+                  <a href="profile.jsp">View All Games</a>
                 </div>
               </div>
             </div>
@@ -259,7 +259,7 @@ https://templatemo.com/tm-579-cyborg-gaming
                 </div>
                 <div class="col-lg-12">
                   <div class="main-button">
-                    <a href="profile.html">Go To Profile</a>
+                    <a href="profile.jsp">Go To Profile</a>
                   </div>
                 </div>
               </div>
@@ -377,7 +377,7 @@ https://templatemo.com/tm-579-cyborg-gaming
               </div>
               <div class="col-lg-12">
                 <div class="main-button">
-                  <a href="streams.html">Discover All Streams</a>
+                  <a href="streams.jsp">Discover All Streams</a>
                 </div>
               </div>
             </div>
